@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "994300242806",
+    "project_id": "fir-test-18553",
+    "storage_bucket": "fir-test-18553.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994300242806:android:45a8604789ed3b200a6857",
+        "android_client_info": {
+          "package_name": "com.example.pitchcatalystassignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKjI6uVLRm3GLadLhAaPupL---yh4FaNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
